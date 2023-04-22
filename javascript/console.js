@@ -1,4 +1,4 @@
 console.log("Hello");
 
-let array = [1, 2, ,3, 4];
+let array = [1, 2, ,3, 4, 5];
 
