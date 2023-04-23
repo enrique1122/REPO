@@ -1,4 +1,8 @@
 console.log("Hello");
 
-let array = [1, 2, ,3, 4];
+/*
+esto es solo un comentario
+*/
 
+console.log("Happy Birthday number 26");
+console.log("hello x8000");
