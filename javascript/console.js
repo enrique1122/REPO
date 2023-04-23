@@ -1,4 +1,6 @@
 console.log("Hello");
 
-let array = [1, 2, ,3, 4, 5, 6, 7];
+
+
+console.log("Happy Birthday number 26");
 
