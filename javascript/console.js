@@ -7,4 +7,4 @@ esto es solo un comentario
 console.log("Happy Birthday number 26");
 console.log("hello x8000");
 let name = "Enrique";
-console.log(`Hola ${name} el día de hoy irás al cine`);
+console.log(`Hola ${name}, hoy irás al cine recuerdalo`);
